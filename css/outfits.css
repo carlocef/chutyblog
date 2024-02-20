@@ -17,18 +17,3 @@ body{
     font-size: 20px;
 }
 
-#header{
-    background: rgb(28, 10, 190);
-    box-shadow: 0px, 2px, 20px, 0px rgba(0,0,0,0,5);
-    color: whitesmoke;
-    font-weight: bold;
-    margin: 0;
-    padding: 0.5cm;
-
-}
-
-#cabecera #tagraya {
-    margin: 0 0 0 0;
-    font-weight: normal;
-    font-size: 0.8cm;
-}
