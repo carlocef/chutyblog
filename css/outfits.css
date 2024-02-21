@@ -23,8 +23,12 @@ body{
     color: whitesmoke;
     font-weight: bold;
     margin: 0;
-    padding: 0.5cm;
+    padding: 0.5cm, 0 0.5cm 2cm;
 
+}
+
+#header #logo{
+    width: 150px;
 }
 
 #cabecera #tagraya {
