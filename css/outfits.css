@@ -32,3 +32,10 @@ body{
     font-weight: normal;
     font-size: 0.8cm;
 }
+
+#footer {
+    background:rgb(201, 201, 201);
+    color: white;
+    text-align: center;
+    padding: 0.5cm;
+}
